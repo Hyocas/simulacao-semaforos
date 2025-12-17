@@ -1,6 +1,7 @@
-# Bem vindo ao simulador de semáforos (mesa de bar)
+# Simulador de semáforos
 
 ![Java](https://img.shields.io/badge/Java-red)
+![Threads](https://img.shields.io/badge/Java%20Threads-darkblue)
 ![Status](https://img.shields.io/badge/Educational-success)
 
 > Simulação de um bar utilizando **Threads** e **Monitores** para demonstrar problemas clássicos de concorrência e gerenciamento de recursos compartilhados.
@@ -29,9 +30,13 @@ O objetivo principal é simular o funcionamento de um "Boteco" onde múltiplos c
     git clone https://github.com/Hyocas/mesa-de-bar.git
 ``` 
 
-### 2. Compile os arquivos
+### 2. Navegue até os arquivos
 ```bash
     cd mesa-de-bar/src
+```
+
+### 3. Compile os arquivos
+```bash
     javac *.java
 ``` 
 
