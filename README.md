@@ -6,6 +6,18 @@
 
 > Simulação de um bar utilizando **Threads** e **Monitores** para demonstrar problemas clássicos de concorrência e gerenciamento de recursos compartilhados.
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./img/execute.png" alt="execute" width="300"/>
+        <br>
+        <sub><b>Aplicação rodando</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## Sobre o Projeto
 
 Este projeto foi desenvolvido de forma interdisciplinar para as matérias de **Programação Orientada a Objetos (POO)** e **Sistemas Operacionais 1 (SO)**.
