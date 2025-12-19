@@ -39,7 +39,7 @@ O objetivo principal é simular o funcionamento de um "Boteco" onde múltiplos c
 
 ### 1. Clone o repositório
 ```bash
-    git clone https://github.com/Hyocas/mesa-de-bar.git
+    git clone https://github.com/oleandrobalbino/mesa-de-bar.git
 ``` 
 
 ### 2. Navegue até os arquivos
